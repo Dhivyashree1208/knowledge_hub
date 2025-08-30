@@ -64,11 +64,6 @@ A full-stack **MERN application** where teams can **create, manage, and search k
 ---
 
 ## 📂 Project Structure
-project-root/
-│── client/ # React frontend
-│── server/ # Express backend
-│── .env.example # Environment variables template
-│── README.md # Documentation
 
 <img width="516" height="181" alt="image" src="https://github.com/user-attachments/assets/22a33a01-7a9d-4e7b-9137-9442af2b1693" />
 
@@ -95,7 +90,7 @@ PORT=5000
 cd server
 npm install
 
-####Install client dependencies
+#### Install client dependencies
 cd ../client
 npm install
 
