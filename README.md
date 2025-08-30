@@ -70,6 +70,9 @@ project-root/
 │── .env.example # Environment variables template
 │── README.md # Documentation
 
+<img width="516" height="181" alt="image" src="https://github.com/user-attachments/assets/22a33a01-7a9d-4e7b-9137-9442af2b1693" />
+
+
 ---
 
 ## ⚙️ Setup Instructions
@@ -88,20 +91,20 @@ PORT=5000
 
 ### 3. Install Dependencies
 
-# Install server dependencies
+#### Install server dependencies
 cd server
 npm install
 
-# Install client dependencies
+####Install client dependencies
 cd ../client
 npm install
 
 ### 4.Run Deployement Server
-# Run backend
+#### Run backend
 cd server
 npm run dev
 
-# Run frontend
+#### Run frontend
 cd ../client
 npm start
 
